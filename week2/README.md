@@ -6,3 +6,5 @@ Thre are five systems: tracking system, ring imaging Cherenkov detector (RICH), 
 and muon system. You task is to identify a particle type using the responses in the detector systems. 
 
 Follow the instructions in **Particle_identification.ipynb** notebook.
+
+Data files you will find here https://github.com/hse-aml/hadron-collider-machine-learning/releases/tag/Week_2
