@@ -3,3 +3,5 @@ pandas
 matplotlib
 scikit-optimize
 tqdm
+seaborn
+scikit-learn
