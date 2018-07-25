@@ -15,3 +15,5 @@ the goal is to design prediction model that will give best score (ROC AUC) and w
 - decorrelation with the mass (correlation check)
 
 the preditions over `test.csv` (i.e. submission file) should be sent to coursera for evaluation.
+
+Data files you will find here https://github.com/hse-aml/hadron-collider-machine-learning/releases/tag/Week_3
