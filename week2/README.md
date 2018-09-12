@@ -7,6 +7,6 @@ and muon system. You task is to identify a particle type using the responses in 
 
 Follow the instructions in **Particle_identification.ipynb** notebook.
 
-To pass the task, you need to get **0.6 or less**. 0.525 is 100%.
+To pass the task, you need to get log loss **0.6 or less**. 0.525 is 100%.
 
 Data files you will find here https://github.com/hse-aml/hadron-collider-machine-learning/releases/tag/Week_2
