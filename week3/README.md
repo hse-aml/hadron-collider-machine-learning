@@ -4,11 +4,11 @@ Data files you will find here https://github.com/hse-aml/hadron-collider-machine
 ## FILES at the release
 training.csv - all features
 
-check_agreement.csv - all features but mass for agreement check
+check_agreement.csv - all features besides mass for agreement check
 
 check_correlation.csv - all features for correlation check
 
-test.csv - all features but mass
+test.csv - all features besides mass
 
 ## Goal
 
