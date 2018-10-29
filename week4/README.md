@@ -10,3 +10,8 @@ https://github.com/hse-aml/hadron-collider-machine-learning/releases/download/We
 
 Follow the details at `index.ipynb`
 
+Each BaseTrack (BT) is described by:
+
+- Coordinates: (X, Y, Z)
+
+- Angles in the brick-frame: (TX, TY)
