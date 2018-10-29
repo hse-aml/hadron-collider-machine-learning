@@ -15,3 +15,5 @@ Each BaseTrack (BT) is described by:
 - Coordinates: (X, Y, Z)
 
 - Angles in the brick-frame: (TX, TY)
+
+After the 'add_neighbours' we add dX,dY,dZ,dTX,dTY (distance from the origin) and group close tracks from neighbour plates into pairs.
